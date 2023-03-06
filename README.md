@@ -186,7 +186,7 @@ wget -N --no-check-certificate -q https://raw.githubusercontent.com/yytitx/v2-do
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/yytitx/v2-docker.svg)](https://starchart.cc/yytitx/v2-docker)
+[![Stargazers over time](https://starchart.cc/yytitx/TTV.svg)](https://starchart.cc/yytitx/TTV)
 
 
 ## LOG
